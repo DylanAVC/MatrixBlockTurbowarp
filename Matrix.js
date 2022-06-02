@@ -25,7 +25,7 @@ class Matrix {
           // It corresponds to the class method with the same name.
           opcode: 'simpleMatrix',
           blockType: Scratch.BlockType.REPORTER,
-          text: 'Matrix [M]'
+          text: 'Matrix [M]',
           arguments: {
             M: {
               type: Scratch.ArgumentType.MATRIX,
